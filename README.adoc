@@ -1,7 +1,9 @@
-Le main de HelloJava permet d'afficher "Hello World"
+Le main de la classe HelloJava permet d'afficher "Hello World"
 
 La fonction afficherCancan permet d'afficher "Cancan", sans prendre de paramètres
 
+Le main de la classe "test" permet d'afficher "test"
+
 Pour définir la classe a executer, modifier la ligne "<mainClass> [votre classe] </mainClass>"
 
-Pour generer la javadoc
+Pour generer la javadoc, utiliser "nvm javadoc:javadoc"
